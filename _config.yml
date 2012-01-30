@@ -10,12 +10,12 @@ paginator: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : pinchersOFpower
-author : Eli Mergel
-  name : Eli Mergel
-  email : info@elimergel.org
-  github : elimergel
-  twitter : elimergel
+title : pinchersOFpower 
+author : Eli Mergel 
+name : Eli Mergel 
+email : info@elimergel.org 
+github : elimergel 
+twitter : elimergel 
 #  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
@@ -67,13 +67,13 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      apikey : 123
+      short_name : pinchersofpower 
+ #   livefyre :
+ #     site_id : 123
+ #   intensedebate :
+ #     account : 123abc
+ #   facebook :
+ #     apikey : 123
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
