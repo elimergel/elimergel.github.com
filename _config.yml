@@ -12,12 +12,12 @@ paginator: true
 #
 title : pinchersOFpower 
 author : Eli Mergel 
+tagline: I was saved by the pinchers of power
 name : Eli Mergel 
 email : info@elimergel.org 
 github : elimergel 
 twitter : elimergel 
 #  feedburner : feedname
-
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
