@@ -6,7 +6,7 @@ title: index
 
 <ul class="posts">
   {% for post in site.posts %}
-    <span><h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h2>&raquo;{{ post.date | date_to_string }}</span>
+    <span><h2><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a><small>     &raquo;{{ post.date | date_to_string }}</small></h2></span>
     {{ post.content }}
   {% endfor %}  
 </ul>
