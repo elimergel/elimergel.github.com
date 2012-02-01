@@ -2,7 +2,7 @@
 layout: post
 title: "year in mail"
 category: post	
-tags: [ mail, service, app, ]
+tags: [  mail, service, app  ]
 ---
 
 About a month or two ago I signed up to have my google mail analyzed and put into a fancy charts, graphs, and laid out so I could see what I'm actually doing with my mail. 
